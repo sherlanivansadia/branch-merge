@@ -1,1 +1,2 @@
-feature-conflict1
+feature-conflict2
+
